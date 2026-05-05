@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "durable-pulsar-477509-k3",
+  "private_key_id": "8f4c6593b4f3a1d08a48d2da2cdf3909826b694f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdWCJJCUWVewWq\n8mBKh2osYo9z8/YmXftA1v6MaB28fkqbMcqP6MlJc/6T39zdeeq9TpgpWvu8VZsE\nsQfp7tHvkFZhn+Ilp4Ei48O+YgaBB2mJaYVUmMiOU2R4ijxBhzxQziIAs09g2z/v\nPxCQHuRZBfvferyY97+ruI9qHqiz7k+errrcIeK5Jyut1Ruz4fJpVVwpk3EmNO5i\nqHbbujn5/b34m9k/8bVg5uRbdVexTcGY44LW6SKz27WoOS3otWIZLm3oyJ2BEIEx\nl8MX2jmxGA49s6Q087yQY+YbpEGBRjPRtuxXLpo4n9X58qU/1DuTia0mLVnobx8/\nBokbz9urAgMBAAECggEACqdsSuQlB6YfQ1MxUFqZYEACodtXEFBn/umP4UbIT+Cz\ntIzk8zGgz44NiUqTOsi4+Fby2EbTQ0FldoypXutPRv8DAMFB7HX9hhtEc21RYdNB\nD8J+LYHa5dtuGV6WDenWT7JlfJ6nm7gjPO2MQlxh7q7VCzpuvGNDyAdLNRuDJaVW\nJR+dVrsv0Qf986GEdnaBGwrOheCQzRugQb+yqvCJi5u2O1JqGpbChqixmsb/v2sQ\nAf36xNddMN4feudX9LsWGTu01AKbavzlrbMLspEg/fj1Kqdl5VEBgU76xPZZjrsJ\nHisQmwUQG30yVXSDAZlMLkd1pEsCZbC2woJmJP/ZQQKBgQDLJrHwuibluuSByit0\nTrzBObvmnnYCQ7+8zTsy0cNOc8vxYFEwcE3C1Q9eC/60wQxVNsKfEwLBbykfWmOO\nOJ9QeZiRaxoANC6xVpGi/b3+HYnPgORNhSZy5QlWAu1WZEvF5SLL/CQb1grri95J\ns14ABLsYIOHAdYyELd6u6NTPIwKBgQDGRtPNyCPenPwoRc9+C3y4Lk/xR/i6G0qQ\nTHbu+ALv/hGSaHEdAfzQ9W81QOQZf+ZyUnX+mdNXPX3Q/sDUS7d7A5U8Fg8yC6cF\n7utelv5aLiQ9VEqTkJ75U0UBfjp8+wXiM5g2V3vArB4QWgY1cdCtqu8H56zG3gHH\nI9N/IbKN2QKBgBHuq3xdYjubILqYNvfAT4ca6owz5qTSiCVJVHVq8LuHGzSGVQRa\nlXKiTgX2NxiLheQrvkg+bFrYzh93YhxWwTFgWmhTtOrZsFl1E8v4bAH3Z4fKj9yL\n6VXxA7706TBcEBg63rR04FcYsMQUB54n2B9WS5GYrXTIq4urZOG5qbdTAoGBAJFQ\nUWSMnPVG+msNlt9azeIyVvaPd9P1snUFBVloPMbk3r39e4D19vKyHfnagBHMMflx\nQ/b/h+t1LqOgQXSVtXgbjSEHTcWw0o0/qBKf+PPgw0CLaUizAj/abkWE3JrCYnKA\nu7p/7TutKS90uv4qVvUgxKR3f6IUDRuEvzl6WeEpAoGAXzpgFC9CD14uZzwxHTKn\n2LluQ6CP0HEMyP0x1lT3XsW/J9748No7+KHtESW0M3fxHYpj0XjhaBNqL52QGw+A\nsDcnzTe7t8GU1R5/+giq6c5JXLYQmFsuPCDVdCJHWiNgqQ/4e2TV92pcYeIcxQlz\nZaMmjkWtIxNbwjdwofE2yHg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datavinci-uploader@durable-pulsar-477509-k3.iam.gserviceaccount.com",
+  "client_id": "114503150997936257742",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datavinci-uploader%40durable-pulsar-477509-k3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
