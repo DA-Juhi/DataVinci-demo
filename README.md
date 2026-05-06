@@ -65,7 +65,7 @@ All 4 queries saved as Views in dataset `datavinci_ecom`:
 ---
 
 ## Live Dashboard
-[View Looker Studio Dashboard](#)
+[View Looker Studio Dashboard](https://datastudio.google.com/reporting/e8aa75d8-6c29-4bb7-826e-613718e7eda9)
 
 ---
 
