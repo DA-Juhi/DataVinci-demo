@@ -1,5 +1,5 @@
 # E-Commerce Digital Analytics Pipeline
-### API → Python → BigQuery → Looker Studio
+### REST API → Python → BigQuery → Looker Studio
 
 ---
 
@@ -16,6 +16,7 @@ REST API → Python → BigQuery → SQL → Looker Studio
 ---
 
 ## Tech Stack
+
 | Tool | Purpose |
 |------|---------|
 | Python (Pandas, Requests) | API fetch, data cleaning, simulation |
@@ -27,6 +28,7 @@ REST API → Python → BigQuery → SQL → Looker Studio
 ---
 
 ## The 3 Tables
+
 | Table | Source | Rows |
 |-------|--------|------|
 | products | Fake Store API — real data | 20 |
@@ -36,6 +38,7 @@ REST API → Python → BigQuery → SQL → Looker Studio
 ---
 
 ## SQL Queries Written
+
 1. **Revenue by Category** — JOIN + GROUP BY + SUM
 2. **Channel Performance** — 3-table JOIN + conversion rate
 3. **Week-over-Week Revenue** — LAG() window function + DATE_TRUNC
@@ -44,6 +47,7 @@ REST API → Python → BigQuery → SQL → Looker Studio
 ---
 
 ## Key Business Insights Found
+
 - Electronics drives 62% of total revenue ($8,648)
 - Paid search and email convert at 7% — highest performing channels
 - Social media converts at only 2% despite 201 sessions — lowest ROI
@@ -61,7 +65,7 @@ All 4 queries saved as Views in dataset `datavinci_ecom`:
 ---
 
 ## Live Dashboard
-[View Looker Studio Dashboard](#) ← will update after May 5
+[View Looker Studio Dashboard](#)
 
 ---
 
