@@ -72,14 +72,23 @@ All 4 queries saved as Views in dataset `datavinci_ecom`:
 ## Project Structure
 
 ├── scripts/
+
 │   ├── fetch_python.py       # Fetches products from API
+     |
 │   ├── simulate_data.py      # Generates sessions + orders
+
 │   └── upload_to_bq.py       # Uploads tables to BigQuery
+
 ├── sql/
+
 │   ├── revenue_by_category.sql
+
 │   ├── channel_performance.sql
+
 │   ├── week_over_week.sql
+
 │   └── device_performance.sql
+
 └── README.md
 
 ---
