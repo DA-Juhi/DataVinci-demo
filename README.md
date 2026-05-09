@@ -6,7 +6,7 @@
 ---
 
 ## Live Dashboard
-🔗 **[View Live Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/e8aa75d8-6c29-4bb7-826e-613718e7eda9/page/p_bwu0lmse3d)**
+🔗 **[View Live Looker Studio Dashboard](https://datastudio.google.com/embed/u/0/reporting/e8aa75d8-6c29-4bb7-826e-613718e7eda9/page/OhLxF)**
 
 ---
 
@@ -72,7 +72,7 @@ All 4 queries saved as Views in dataset `datavinci_ecom`:
 ---
 
 ## Live Dashboard
-[View Looker Studio Dashboard](https://datastudio.google.com/reporting/e8aa75d8-6c29-4bb7-826e-613718e7eda9)
+[View Looker Studio Dashboard](https://datastudio.google.com/embed/u/0/reporting/e8aa75d8-6c29-4bb7-826e-613718e7eda9/page/OhLxF)
 
 ---
 
