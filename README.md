@@ -1,7 +1,7 @@
 # E-Commerce Digital Analytics Pipeline
 ### API → Python → BigQuery → Looker Studio
 
-> Built to mirror exactly how **DataVinci Private Limited** builds data products for their US and European e-commerce clients.
+> Built to mirror how **DataVinci Private Limited** builds data products for their US and European e-commerce clients.
 
 ---
 
