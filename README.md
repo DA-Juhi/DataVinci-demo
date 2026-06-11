@@ -6,7 +6,7 @@
 ---
 
 ## Live Dashboard
-🔗 **[View Live Looker Studio Dashboard](https://datastudio.google.com/embed/u/0/reporting/e8aa75d8-6c29-4bb7-826e-613718e7eda9/page/OhLxF)**
+🔗 **[View Live Looker Studio Dashboard](https://datastudio.google.com/reporting/e8aa75d8-6c29-4bb7-826e-613718e7eda9)**
 
 ---
 
