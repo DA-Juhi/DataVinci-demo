@@ -3,7 +3,7 @@
 
 A complete, end-to-end analytics pipeline that takes e-commerce data from source to decision: pulled from an API, processed in Python, warehoused in BigQuery, queried with advanced SQL, and delivered as a client-facing Looker Studio dashboard a non-technical owner can read at a glance.
 
-**🔗 [View the live dashboard →](https://datastudio.google.com/reporting/e8aa75d8-6c29-4bb7-826e-613718e7eda9)**
+**🔗 [View the live dashboard →](https://datastudio.google.com/s/nU1l16Y6KbM)**
 
 ---
 
